@@ -1,0 +1,44 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: grey;
+    background-image: linear-gradient(to right, #776B5D, #F3EEEA);
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+  }
+  
+  main {
+    padding: 20px;
+  }
+  
+  .product {
+    border: 1px solid #ccc;
+    padding: 20px;
+  }
+  
+  .product img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  button {
+    padding: 10px 20px;
+    background-color: #333;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .cart{
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin-bottom: 10px;
+    width: 400px;
+    height: 350px;
+  }
